@@ -22,3 +22,5 @@ https://twitter.com/_tweeter_bot
 > - **"token_secret"**: *the access token secret*
 > - **"consumer_key"**: *the consumer key*
 > - **"consumer_secret"**: *the consumer secret*
+
+*Currently de-commissioned
